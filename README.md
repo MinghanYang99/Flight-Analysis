@@ -29,7 +29,7 @@ Lorenz Curve: To evaluate the fairness of the workload distribution.
 Results:
 
 Achieved a 67% efficiency increase in workload calculation.
-Optimized work schedules by 31.33% compared to Random Algorithms.
+Implemented Genetic Algorithm to reducing variance from 3.58 (Random Algorithm) to 0.55, signifying a boost in fairness by 84.6%.
 Enhanced client assessment of fairness and effectiveness by 82%.
 
 Tools & Libraries Used:
